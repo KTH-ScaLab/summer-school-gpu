@@ -1,0 +1,1 @@
+pmc: SALUInsts SFetchInsts LDSInsts  L2CacheHit MemUnitBusy MemUnitStalled
